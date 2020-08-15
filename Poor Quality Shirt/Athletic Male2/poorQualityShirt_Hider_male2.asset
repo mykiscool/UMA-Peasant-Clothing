@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86f7fb3ea5bac04a857e5f4a0b30077, type: 3}
+  m_Name: poorQualityShirt_Hider_male2
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 11400000, guid: 8567b063cd4e0534aa360ef6e4058e91, type: 2}
+  _assetSlotName: M_Athletic_Torso
+  _serializedFlags:
+  - flags: 00c1c6ffff2ffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdf3ff800ffffffffffffffffffffffffffffff1f761800ffffbfcf0f00001000ff0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff080080fffffffffffffffffff00ffe0100fcffffffff0100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f000000000000fcffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc30f0088ffffffffffffffffffffffffff7f04f0ffffffffffff0100000000feffffff3fffffffffffffffffffffffffc7ffffffff7f0704000000000000000000c4020687c00f0600000000000000000000000000000000000000000000fcffffffffffffffffffffffffffffffffffffffffff0f000000000000000000000000000000000000000000000000fefef0ff
+    Count: 3264
